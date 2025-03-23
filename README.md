@@ -23,6 +23,9 @@ directly from Microsoft.
  
 ![image](https://github.com/user-attachments/assets/0caf2a43-bde6-4804-ba69-402febe30b8d) 
 
+Once that was ready, I created a new virtual machine in VMware. 
+<br />
+
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
