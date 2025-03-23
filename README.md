@@ -2,8 +2,8 @@
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2> Project Summary</h2>
+This was a hands-on project where I walked through setting up Active Directory from scratch on a Windows Server 2022 virtual machine. I installed the OS, promoted the server to a domain controller, created a domain, set up OUs for different regions and departments, and added user accounts and groups. The entire setup is fully functional and can be used as a base for more advanced Active Directory or network administration labs.
 <br />
 
 
