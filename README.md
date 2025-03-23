@@ -15,11 +15,11 @@ For this project, I set up Active Directory on a Windows Server 2022 virtual mac
 - <b>VMWare Workstation Pro 17</b>
 - <b>Windows Server 2022 ISO (63-bit, evaluation copy</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Install Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<https://imgur.com/a/JAWKS2J
 <br />
 <br />
 Select the disk:  <br/>
