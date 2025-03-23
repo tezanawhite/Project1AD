@@ -6,15 +6,14 @@
 This was a hands-on project where I walked through setting up Active Directory from scratch on a Windows Server 2022 virtual machine. I installed the OS, promoted the server to a domain controller, created a domain, set up OUs for different regions and departments, and added user accounts and groups. The entire setup is fully functional and can be used as a base for more advanced Active Directory or network administration labs.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+<h2> Active Directory Setup Using Windows Server 2022 in VMware Workstation Pro 17</h2>
+For this project, I set up Active Directory on a Windows Server 2022 virtual machine using VMware Workstation Pro 17. The goal was to create a domain environment from scratch, build organizational units (OUs), and set up user accounts and groups — basically a foundational lab for anyone learning how to work with Active Directory.
+<br />
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>VMWare Workstation Pro 17</b>
+- <b>Windows Server 2022 ISO (63-bit, evaluation copy</b> 
 
 <h2>Program walk-through:</h2>
 
