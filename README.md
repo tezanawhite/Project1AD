@@ -19,7 +19,7 @@ For this project, I set up Active Directory on a Windows Server 2022 virtual mac
 
 <p align="center">
 Launch the utility: <br/>
-<https://imgur.com/a/JAWKS2J
+<img src="https://imgur.com/a/JAWKS2J" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
