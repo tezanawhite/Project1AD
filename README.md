@@ -17,8 +17,10 @@ For this project, I set up Active Directory on a Windows Server 2022 virtual mac
 
 <h2>Install Walk-through:</h2>
 
-<p align="center">
-
+First, I installed VMware Workstation Pro 17 on my local machine. Then I downloaded the Windows Server 2022 ISO (64-bit edition) 
+directly from Microsoft.
+<br />
+ 
 ![image](https://github.com/user-attachments/assets/0caf2a43-bde6-4804-ba69-402febe30b8d) 
 
 Select the disk:  <br/>
